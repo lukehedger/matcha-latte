@@ -29,7 +29,7 @@ The possibilities open to serverless application developers are incredibly empow
 
 For more information see:
 
-- [Serverless is a State of Mind](https://read.acloud.guru/serverless-is-a-state-of-mind-717ef2088b42) by Ben Kehoe (iRobot)
+- [Serverless is a State of Mind](https://ben11kehoe.medium.com/serverless-is-a-state-of-mind-717ef2088b42) by Ben Kehoe (iRobot)
 - [Serverless Engineer, where are you?](https://medium.com/lego-engineering/serverless-engineer-where-are-you-323ae727f4d2) by Sheen Brisals (Lego)
 - [Serverless Architectures](https://martinfowler.com/articles/serverless.html) on the Martin Fowler blog
 

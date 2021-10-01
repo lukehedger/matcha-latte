@@ -1,6 +1,6 @@
 ---
 title: "Local Serverless Development"
-description: "Using Serverless Stack for Local Development"
+description: "Using Serverless Stack for super-powered local development"
 publishDate: "Friday, 1 October 2021"
 author: "Luke Hedger"
 heroImage: "/assets/blog/local-serverless-development.jpg"
@@ -30,11 +30,7 @@ The real magic of SST is its [Live Lambda Development environment](https://docs.
 
 By defining your [API Gateway APIs](https://docs.serverless-stack.com/constructs/Api) and [Lambda functions](https://docs.serverless-stack.com/constructs/Function) with SST's constructs, serverless engineers will be able to update and debug function code on a local machine, then see it running *live* on AWS!
 
-<!-- ---
-
-TODO: GIF of console logging ✨
-
---- -->
+![SST Live Lambda Development](/assets/blog/sst-live-lambda-development.png)
 
 Let's take a look at some of the workflows that the SST Live Lambda Development environment enables.
 
@@ -71,3 +67,10 @@ There must be some, right? I've only found one so far but will keep looking! Con
 ### Alternatives
 
 The AWS SAM team have recently beta-released a similar tool - see [this GitHub issue for more details](https://github.com/aws/aws-sam-cli/issues/3264). And you'd think the AWS CDK team would not be far behind. Watch this space - local serverless development can only get better! 🎉
+
+### Resources
+
+- [Example repo lukehedger/local-serverless-development](https://github.com/lukehedger/local-serverless-development)
+- [SST docs](https://docs.serverless-stack.com)
+- [@serverless-stack/cli](https://docs.serverless-stack.com/packages/cli)
+- [@serverless-stack/resources](https://docs.serverless-stack.com/packages/resources)

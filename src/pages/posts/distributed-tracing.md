@@ -1,7 +1,7 @@
 ---
 title: "Distributed tracing for serverless applications on AWS"
 description: "Harness the power of distributed tracing to take serverless observability to the next level"
-publishDate: "Wednesday, 1 December 2021"
+publishDate: "Thursday, 20 January 2022"
 author: "Luke Hedger"
 heroImage: "/assets/blog/distributed-tracing.jpg"
 alt: "Stormtrooper walking on sand by Daniel Cheung on Unsplash"
